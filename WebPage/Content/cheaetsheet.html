@@ -1,0 +1,131 @@
+<! DOCTYPE html>
+<html>
+
+<head>
+    <title>HTML Cheat Sheet</title>
+</head>
+
+<body>
+    <!-- Headings -->
+    <h1> Heading One</h1>
+    <h2> Heading two</h2>
+    <h3> Heading three</h3>
+    <h4> Heading four</h4>
+    <h5> Heading five</h5>
+    <h6> Heading six</h6>
+
+    <!-- Paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <strong>exercitation ullamco</strong> laboris nisi ut aliquip ex ea commodo <em>consequat</em>. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <p>Lorem ipsum dolor sit amet, <a href="" target="_blank">consectetur</a> adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <!-- Lists -->
+    <ul>
+        <!-- Liste me bullet -->
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+        <li>List Item 4</li>
+    </ul>
+    <ol>
+        <!-- Liste me numra rendites -->
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+        <li>List Item 4</li>
+    </ol>
+
+    <!-- Tables -->
+    <table>
+        <thead>
+            <tr>
+                <!-- Table rows -->
+                <th>Name</th><!-- Table heading (th)-->
+                <th>Email</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Andi Pilani</td><!-- Table data -->
+                <td>andi@123.com</td>
+                <td>27</td>
+            </tr>
+            <tr>
+                <td>Ani Pani</td><!-- Table data -->
+                <td>apani@123.com</td>
+                <td>270</td>
+            </tr>
+            <tr>
+                <td>Joe Doe</td><!-- Table data -->
+                <td>joedoe@123.com</td>
+                <td>27</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <br> <!-- kjo eshte per te bere nje linje hapesire vtm ne html kur sperdoret css-->
+    <hr> <!-- Horizontal rule, ndan me nje vije faqen kur renderizohet-->
+
+    <!-- Forms (exmp - login form)-->
+    <form action="example.php" method="post">
+        <!-- kjo perdoret per tu lidhur me server ose me faqe tjeter kurse method eshte per te mare te dhena-->
+        <div>
+            <label>First Name</label>
+            <input type="text" name="first-name"> <!-- Kjo perdoret per te bere ato qe jane si logine neper faqe-->
+        </div>
+        <br>
+        <div>
+            <label>Last Name</label>
+            <input type="text" name="last-name">
+        </div> <!-- Perdor <div> qe te vendosen njeri pas tjetrit -->
+        <br>
+        <div>
+            <label>Email</label>
+            <input type="email" name="email" placeholder="someone@domain.com"> <!-- Placeholder thot informacion cfar duhet te vesh pastaj zhduket.-->
+        </div>
+        <div>
+            <label>Comments</label>
+            <textarea name="message"></textarea> <!-- Eshte zone me e madhe per te vene me shume tekst -->
+        </div>
+        <br>
+        <div>
+            <label>Platform</label>
+            <select name="Platform">
+                <!-- Po do te besh dropdown list dhe te selektosh -->
+                <option value="PC">PC</option>
+                <option value="PS4">PS4</option>
+                <option value="Xbox">Xbox</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label>Bday</label>
+            <imput type="date" name="Bday"></imput>
+        </div>
+        <br>
+        <imput type="submit" name="submit" value="Submit"></imput>
+        <!--doesnt work-->
+
+    </form>
+    <!-- Buttons -->
+    <button>Click Here</button>
+    <br>
+
+    <!-- Images and stuff -->
+    <a href="design1_image1.jpg">
+        <!-- Kjo komande ben qe fotoja te hapet ne browser-->
+
+        <img src="design1_image1.jpg" añt="Doesnt load for some reason"> <!-- Comanda alt ben qe te tregoje nje tekst ose nje aksion alrternativ nqs imazhi nuk ngarkohet ose nuk gjihet nga programi. -->
+    </a>
+
+    <!-- Quotations -->
+    <blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    </blockquote> <!-- Just for quotes gives some formating and pading-->
+
+    <p> The <abbr tittle="World Wide Web">WWW</abbr> is awesome</p>
+    <p><cite>C++ is better than java</cite> by everyone</p> <!-- Uses cite on text and gives formating -->
+
+</body>
+
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  
+ <style>
+  body {background-color: white;}
+  h1 {color: Black;}
+  p {color: Gray;}
+</style>
+  
+<head>
+<title>Northside Youth Soccer League</title>
+</head>
+ 
+<body>
+<div class="header">
+ <img src="https://s3.amazonaws.com/gbstool/emails/2027/nysl_logo.png?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1539680400&Signature=LjKqwgwA7NO6iwu9pFyLORN8nkk%3D" alt="logo" />
+
+<h1>Northside Youth Soccer League</h1>
+<a href="html_images.asp">Home</a> | <a href="html_images.asp">About NYSL</a> | <a href="html_images.asp">Contacts</a></p>
+</div>
+
+<h2>Upcoming Events </h2>
+<p><i>August 4</i> - NYSL Fundraiser</p>
+<p><i>August 16</i> - Season Kick-off: Meet the Teams</p>
+<p><i>September 1</i> - First Game of the Season (Check Game Schedulre for details)</p>
+  <img src="https://s3.amazonaws.com/gbstool/emails/2027/soccer_image1.jpg?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1539680400&Signature=CQxDY9Vql5FqeCdxcJg3pALUlUc%3D" alt="photo" />  
+
+</body>
+</html>
+
+<body>
+<div class="header">
+ <img src="https://s3.amazonaws.com/gbstool/emails/2027/nysl_logo.png?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1539680400&Signature=LjKqwgwA7NO6iwu9pFyLORN8nkk%3D" alt="logo" />
+
+<h1>Northside Youth Soccer League</h1>
+<a href="html_images.asp">Home</a> | <a href="html_images.asp">About NYSL</a> | <a href="html_images.asp">Contacts</a></p>
+</div>
+
+
+<h2>Mission </h2>
+<p>To support young athletes living in Chicago´s northside neighborhoods, who have an interest in learning and playing soccer, with opportunities to learn and practice skills related to the game of soccer, specifically those skills around team cooperation and good sportsmanship.</p>
+
+<h2>Vision</h2>
+<p>The Northside Youth Soccer League aspires to develop strong, well-rounded, and mindfull athletes through the building of character, self-discipline, and leadership.</p>
+
+<h3>General Information</h3>
+<p>The Northside Youth Soccer League was estabilished in 1996 to provide athletes residing in Chicago´s northside neighborhoods an environment in which to learn and play soccer. To be a member of NYSL, you must be between the ages of 4 - 12 and reside in a Chicago northside neighborhood. NYSL is ran by a small full-time staff, and relies on the generous volunteer time of parents and previous league members.
+<img src="https://s3.amazonaws.com/gbstool/emails/2027/soccer_image2.jpg?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1539680400&Signature=QT7oWfMWsByCOtsPJNNZYd%2B2p74%3D" alt="photo" /> 
+
+</body>
+</html>
+
+<body>
+<div class="header">
+ <img src="https://s3.amazonaws.com/gbstool/emails/2027/nysl_logo.png?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1539680400&Signature=LjKqwgwA7NO6iwu9pFyLORN8nkk%3D" alt="logo" />
+
+<h1>Northside Youth Soccer League</h1>
+<a href="html_images.asp">Home</a> | <a href="html_images.asp">About NYSL</a> | <a href="html_images.asp">Contacts</a></p>
+</div>
+
+<p>Please email us at nysl@chisoccer.org.</p>
+<p>We will reply to your email as soon as we can.</p>
+<img src="https://s3.amazonaws.com/gbstool/emails/2027/soccer_image3.jpg?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1539680400&Signature=vCrTY%2Bnhpq5DevXgekEHAWRRLME%3D" alt="photo" />
+
+</body>
+</html>

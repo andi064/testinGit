@@ -1,0 +1,119 @@
+.link1,
+.link2,
+.link3 {
+    display: inline-block;
+}
+
+.links{
+    position: absolute;
+    right: 30px;
+    top: 50px;
+    border: black solid;
+    background-color: black;
+    color: white;
+    
+}
+
+.links a{
+    color: white;
+    text-decoration: none;    
+}
+
+.link1:hover{
+    background-color: white solid;
+    text-decoration-color: black;
+    animation: bounce 1s;
+}
+.link2:hover{
+    background-color: white solid;
+    animation: bounce 1s;
+}
+.link3:hover{
+    background-color: white solid;
+    animation: bounce 1s;
+}
+
+.link1:activ{
+    color: aqua solid;
+}
+
+h3 {
+    margin-top: auto;
+    margin-left: auto;
+
+    text-align: center;
+
+}
+
+img {
+    position: absolute;
+    width: 100px;
+    top: 350px;
+
+}
+
+.contact {
+
+    text-align: center;
+    margin: auto;
+}
+
+.navbar {
+    background-image: url(../../Content/design2_image1.jpg);
+    height: 300px;
+}
+
+@keyframes bounce {
+	0%, 20%, 60%, 100% {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+
+	40% {
+		-webkit-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+
+	80% {
+		-webkit-transform: translateY(-10px);
+		transform: translateY(-10px);
+	}
+}
+
+.navname{
+    margin-top: auto;
+    margin-left: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+h3{
+/*
+    margin-top: auto;
+    margin-left: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+*/
+}
+
+.events{
+    display: inline-block;
+    margin-left: 520px;
+    margin-top: auto;
+    text-align: center;
+    
+}
+
+.about{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: auto;
+
+}
+
+.h3{
+    
+}
